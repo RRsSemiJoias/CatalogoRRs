@@ -1,0 +1,28 @@
+@media only screen and (max-width: 500px){
+    
+    .logo{
+        width: 50vw;
+    }
+    
+    .img-catatlogo{
+        width: 60vw;
+    }
+    
+    .base-tittle{
+        font-size: 8vw;
+        margin-top: 1vh;
+        margin-bottom: 3vh;
+    }
+    
+    .card-catalogo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .subtittles{
+        font-size: 5vw;
+        margin-top: 2vh;
+    }
+}
